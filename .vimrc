@@ -28,7 +28,7 @@ set softtabstop=4
 set expandtab
 " syntax
 syntax on
-" support 256 colors in Lion terminal 
+" support 256 colors in Lion terminal
 set t_Co=256
 " files
 filetype on
